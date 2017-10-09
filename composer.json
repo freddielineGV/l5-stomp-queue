@@ -11,6 +11,10 @@
         {
             "name": "Nicholas Finzer",
             "email": "nfinzer@gmail.com"
+        },
+        {
+            "name": "Freddie Line",
+            "email": "freddieline@grandvisual.com"
         }
     ],
     "require": {
@@ -19,7 +23,7 @@
         "illuminate/console": "5.x",
         "illuminate/queue": "5.x",
         "illuminate/broadcasting": "5.x",
-        "symfony/process": "3.1.x-dev",
+        "symfony/process": "~3.1",
         "stomp-php/stomp-php" : "4.*"
     },
     "require-dev": {
